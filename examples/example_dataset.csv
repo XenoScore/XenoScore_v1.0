@@ -1,0 +1,3 @@
+infection_status,egfr,creatinine,lvef,map_mmHg,dialysis,mechanical_support,vasopressors,donor_age_months,donor_weight_kg,donor_pcmv,ggta1_ko,cmah_ko,b4galnt2_ko,hCD46,hTHBD,baseline_anti_pig_IgG,baseline_anti_pig_IgM,flow_cxm_mfi,flow_cxm_positive,pod1_IgG,pod3_IgG,pod1_IgM,pod3_IgM,baseline_C3,pod3_C3,baseline_C4,pod3_C4,sC5b9,dsa_present,outcome
+none,55,1.4,55,75,False,False,False,8,60,False,True,True,True,True,True,16,16,200,False,24,32,32,32,100,85,35,28,150,False,0
+active,20,3.5,30,55,True,True,True,20,110,True,True,False,False,False,False,64,64,3000,True,128,128,128,128,110,60,40,20,600,True,1

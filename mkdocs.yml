@@ -1,0 +1,18 @@
+site_name: XenoScore
+repo_url: https://github.com/ORG_OR_USER/xenoscore
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - CLI: cli.md
+  - Components: components.md
+  - Extending: extending.md
+  - Ethics & Validation: ethics.md
+  - References: references.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - footnotes

@@ -1,0 +1,14 @@
+weights:
+  infection_risk: 1.2
+  renal_risk: 1.0
+  cardio_risk: 0.8
+  context_risk: 0.6
+  baseline_humoral_risk: 1.2
+  cxm_risk: 1.0
+  early_humoral_risk: 1.3
+  complement_consumption_risk: 1.1
+  complement_activation_risk: 1.1
+  dsa_risk: 1.2
+  donor_pcmv_risk: 1.5
+  genetic_protection: -1.4    # protective -> reduces risk
+  donor_age_size_risk: 0.5

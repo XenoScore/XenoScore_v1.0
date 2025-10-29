@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "XenoScore: Open-Source ML Scoring System for Pig-to-Human Xenotransplantation Outcomes"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: YourSurname
+    given-names: YourName
+version: "0.1.0"
+repository-code: "https://github.com/ORG_OR_USER/xenoscore"
+abstract: "Modular, transparent scoring + ML model for pig-to-human xenotransplantation risk estimation."

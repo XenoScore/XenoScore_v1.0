@@ -1,0 +1,14 @@
+components:
+  - name: InfectionStatus
+  - name: RenalFunction
+  - name: CardiovascularFunction
+  - name: PreXenoClinicalContext
+  - name: BaselineAntibody
+  - name: FlowCrossmatch
+  - name: EarlyHumoralResponse
+  - name: ComplementConsumption
+  - name: ComplementActivation
+  - name: DSA
+  - name: DonorPCMV
+  - name: DonorGenetics
+  - name: DonorAgeSize

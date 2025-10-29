@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "xenoscore"
+version = "0.1.0"
+description = "Open-source ML scoring system for pig xenotransplantation outcomes"
+authors = [{name="XenoScore Contributors"}]
+readme = "README.md"
+requires-python = ">=3.9"
